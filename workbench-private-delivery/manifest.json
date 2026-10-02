@@ -1,0 +1,65 @@
+{
+  "version": "5.0.0",
+  "algorithm": "AES-256-GCM",
+  "archives": {
+    "complete": {
+      "name": "工作台_完整交付包_v5.0.0.zip",
+      "nonce": "dqnOeg6ejmgeasha",
+      "bytes": 102730056,
+      "sha256": "c61fd13939d2aa1bd2bf3a580d5d9487c6afd944dcd2d161f2cd71ac1eeff113",
+      "parts": [
+        {
+          "name": "complete.part01.encrypted",
+          "bytes": 41943040,
+          "sha256": "dd4e9523e8ca22a37f7bac1a39fb0f4c9ce20c787ddb8ea51f3c49392048c5d5"
+        },
+        {
+          "name": "complete.part02.encrypted",
+          "bytes": 41943040,
+          "sha256": "b28a6839f0aba8a7aa2e2c775732a67687e0cd0b866d3f469cdda51110e62e20"
+        },
+        {
+          "name": "complete.part03.encrypted",
+          "bytes": 18843992,
+          "sha256": "32c689dae11f1523ba3e326122f86cf9853628688d4751b78a8063b35bd21397"
+        }
+      ]
+    },
+    "source": {
+      "name": "01_修复后源码.zip",
+      "nonce": "p8KcvQv4Y5coTfyP",
+      "bytes": 2270566,
+      "sha256": "823fddad438bc408d09804050ebf30e08611c1d8eab3367d92a97d24ad6e0918",
+      "parts": [
+        {
+          "name": "source.part01.encrypted",
+          "bytes": 2270582,
+          "sha256": "d0af0768445b60297ec193a13675e0f3464bad2435ebf534161e08eec4f7720c"
+        }
+      ]
+    },
+    "desktop": {
+      "name": "workbench-portable-5.0.0-x64.exe",
+      "nonce": "9Sy0RNwasZe3W0y8",
+      "bytes": 99715971,
+      "sha256": "7ee17d66df025fea698bc435cddb61a9fb922b8bc74112004a1a2e60d3707113",
+      "parts": [
+        {
+          "name": "desktop.part01.encrypted",
+          "bytes": 41943040,
+          "sha256": "696d11c35120364cd318670032242206b4afb858855867d4ec54582910be4f5f"
+        },
+        {
+          "name": "desktop.part02.encrypted",
+          "bytes": 41943040,
+          "sha256": "67ffbba642489ab38e9f83683ef3ba59f2892bb204554349655b62e853abbc7c"
+        },
+        {
+          "name": "desktop.part03.encrypted",
+          "bytes": 15829907,
+          "sha256": "2ec99ff78418a46076546d5af7c830c6fdda006a3501ad5896d9870c508032da"
+        }
+      ]
+    }
+  }
+}
