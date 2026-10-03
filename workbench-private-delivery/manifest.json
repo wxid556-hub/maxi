@@ -4,37 +4,37 @@
   "archives": {
     "complete": {
       "name": "工作台_完整交付包_v5.0.0.zip",
-      "nonce": "7/BxtqNXq7yiYPIf",
-      "bytes": 103336575,
-      "sha256": "74977c6b1e02284e8e30c26e8e73c6c6f1ab1e92480b23b3121e6c45b662a87d",
+      "nonce": "R+CUFRzHT8HY8d4j",
+      "bytes": 103336897,
+      "sha256": "0820b0187a001645da483437ea917c20eabdc15d46864f81b6a791747972d13f",
       "parts": [
         {
           "name": "complete.part01.encrypted",
           "bytes": 41943040,
-          "sha256": "4dc4d5c6885934a81ebc0c8ec5a8397ed0f388fac99ad74c9a4508deadc561b2"
+          "sha256": "bffb68461d8c7c883c99bcf3fe82f1901ca312b8ec60c9f1b0e807d24b36442d"
         },
         {
           "name": "complete.part02.encrypted",
           "bytes": 41943040,
-          "sha256": "7f056d951838836e40fc63d9ee5ce5c130c6996fe3f06b97e18a7b83dda41090"
+          "sha256": "8a54e9e3d6f50ca5984a381ae63f0533fba6a324bcb1b37c73654b6697d9b158"
         },
         {
           "name": "complete.part03.encrypted",
-          "bytes": 19450511,
-          "sha256": "d8f671c1819b75a60eae68b12760b7569517708e0469400fdcb8d2e1017b9283"
+          "bytes": 19450833,
+          "sha256": "dd5d11d8cbb62eedf2e83181f6089c7810f8f144e28ab3672ccebf8bcffb6fe3"
         }
       ]
     },
     "source": {
       "name": "01_修复后源码.zip",
-      "nonce": "TaDqhLK5iJzTNbe7",
-      "bytes": 2816358,
-      "sha256": "85ee75007de1c88b6ff77f2a289b94c14ebf441e0157a6d671af980bf9db2998",
+      "nonce": "ldZ8BHPTAy6by5sD",
+      "bytes": 2816606,
+      "sha256": "20f4666b8622c4a98d90110e04f5f0d16aea42352ba76fa66ce4d16620751065",
       "parts": [
         {
           "name": "source.part01.encrypted",
-          "bytes": 2816374,
-          "sha256": "098622add38c105a8520f11ed2d27338ead1a2cfe1f03484fb7f89e0521d1c08"
+          "bytes": 2816622,
+          "sha256": "ff9e3ca67fbbc38550f844066ed2ae5e394d4c5b10191b62c0fafeb53c3dc2dd"
         }
       ]
     },
@@ -76,14 +76,14 @@
     },
     "report": {
       "name": "全面测试报告.html",
-      "nonce": "f9/JANPKNRlSKNhZ",
+      "nonce": "BIZ3lVJYtSdCU4TC",
       "bytes": 12084,
-      "sha256": "addf48b8019121290ed1135d7b80601476b0e2b7932c4db7ea91802f424d791d",
+      "sha256": "17418fc8ce108b76b41ac811ecbede62b2a84a1849fa1a4b56a9bbcce12f0f9b",
       "parts": [
         {
           "name": "report.part01.encrypted",
           "bytes": 12100,
-          "sha256": "249cfa5a5082b124438800d090eb18d0ee548b53ee19b432555b2977022c6d36"
+          "sha256": "a3e0bd4e2ee882a4843888982f39bf17865189c3b2616d3ff90332c26237ba5f"
         }
       ]
     }
