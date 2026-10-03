@@ -4,60 +4,73 @@
   "archives": {
     "complete": {
       "name": "工作台_完整交付包_v5.0.0.zip",
-      "nonce": "MJApInoTu0AS+nXg",
-      "bytes": 102730081,
-      "sha256": "b498a27720c416b125243588a053e887542fb5dcee3027f9bccf63634400ff67",
+      "nonce": "sdSsGsJO5AAkVwMo",
+      "bytes": 102729304,
+      "sha256": "61445d8dc602cd1c736b5a55cf22e3af2715cdb016ff9ea252a079ff60823580",
       "parts": [
         {
           "name": "complete.part01.encrypted",
           "bytes": 41943040,
-          "sha256": "3902c5fa9cb957e1720f2ab35f2e7931af49c158910f3ad2afdfc2e176d50c22"
+          "sha256": "a982d28cb3c8a9cea784eec8247b2c7d1b44f24c51d4abd7def7db6720be8ea1"
         },
         {
           "name": "complete.part02.encrypted",
           "bytes": 41943040,
-          "sha256": "bac2bf4c54c65776ade788fd3682245351b799f6486f693f44a497ce11d1921f"
+          "sha256": "fcb0118c0a7979c53cc2d9040e0b89ecf08331069f16b76a07c0f44e7d908cf6"
         },
         {
           "name": "complete.part03.encrypted",
-          "bytes": 18844017,
-          "sha256": "95dc93262ebb7b77ab8ab404d302efb12df75b7f90729723c9ddcdec3cfd50df"
+          "bytes": 18843240,
+          "sha256": "221bd9ea132743e8bc4caecb18d188ef34c306f49d59763f841ea5840dd66aa9"
         }
       ]
     },
     "source": {
       "name": "01_修复后源码.zip",
-      "nonce": "DvOaAhXh9fl3dVrO",
-      "bytes": 2270591,
-      "sha256": "e76ad54e69af482bba264d72c26ecab2a8fdfbaba143ca315c42cf4c30849316",
+      "nonce": "QqrNVEErs7S4tfZG",
+      "bytes": 2270899,
+      "sha256": "1e977a9ec62e6006ec89da7b07da92247cc0d0a19353aba77c8405b2051d879a",
       "parts": [
         {
           "name": "source.part01.encrypted",
-          "bytes": 2270607,
-          "sha256": "d2951c05d8a070391016dffc1f09ee7e9e8c9cdfb39dceb842c331703044a57a"
+          "bytes": 2270915,
+          "sha256": "d9070276371825e37802902fcc9ad4e511b5c6c08960cfece9ec64d928de72d9"
         }
       ]
     },
     "desktop": {
       "name": "workbench-portable-5.0.0-x64.exe",
-      "nonce": "9Sy0RNwasZe3W0y8",
-      "bytes": 99715971,
-      "sha256": "7ee17d66df025fea698bc435cddb61a9fb922b8bc74112004a1a2e60d3707113",
+      "nonce": "gt6vWMVTMnPrEsbE",
+      "bytes": 99714407,
+      "sha256": "d49ba3ac75b4d651f950f21755a310e502cdb32128fae9dce34a14fa32a4cd3d",
       "parts": [
         {
           "name": "desktop.part01.encrypted",
           "bytes": 41943040,
-          "sha256": "696d11c35120364cd318670032242206b4afb858855867d4ec54582910be4f5f"
+          "sha256": "d0ce4c4a6494ce417f65dcd496755aa813d7444645c240010db19b744b485376"
         },
         {
           "name": "desktop.part02.encrypted",
           "bytes": 41943040,
-          "sha256": "67ffbba642489ab38e9f83683ef3ba59f2892bb204554349655b62e853abbc7c"
+          "sha256": "ff0b4fc0d57b331c0183d662432fea92f56885df7ab27f3e9f619868c2c2b3ee"
         },
         {
           "name": "desktop.part03.encrypted",
-          "bytes": 15829907,
-          "sha256": "2ec99ff78418a46076546d5af7c830c6fdda006a3501ad5896d9870c508032da"
+          "bytes": 15828343,
+          "sha256": "3c544613cca91c267fd674da8c435b612573438851c1b4753f4d941fca3df7b8"
+        }
+      ]
+    },
+    "initialization": {
+      "name": "负责人初始化.txt",
+      "nonce": "kSeuqs4o3bseDGBq",
+      "bytes": 483,
+      "sha256": "575e961c288513054b3f067c15760751c357bd5eef197f10209cd13ec4bc4b87",
+      "parts": [
+        {
+          "name": "initialization.part01.encrypted",
+          "bytes": 499,
+          "sha256": "fb0c25f07d9b7d045ce95f55387d087620506648c6b02fa9fe3b6f9fe3313b26"
         }
       ]
     }
