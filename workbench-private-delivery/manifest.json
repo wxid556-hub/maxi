@@ -4,60 +4,60 @@
   "archives": {
     "complete": {
       "name": "工作台_完整交付包_v5.0.0.zip",
-      "nonce": "6gKZxjt9KJOweRa7",
-      "bytes": 103316434,
-      "sha256": "4d7e9429a3b1429cc4a81bd05c451ae9d1f98a6e1ee7c34b18ddf702e4eb015a",
+      "nonce": "foOMRkffc3KZKBY9",
+      "bytes": 103318271,
+      "sha256": "d8bd77d5854dc3e67ca8f602802dae3b22bf7fc03e1c6664ed75dddd5e6fa3de",
       "parts": [
         {
           "name": "complete.part01.encrypted",
           "bytes": 41943040,
-          "sha256": "a282299d501c669396ddc82b553508a975189072d4b2d6bc13b72bd9b4edd040"
+          "sha256": "a8a00fde7d167c8e9ac7ed2c2e757d1b3f5362e70d8b858c1f8b53c1982b1602"
         },
         {
           "name": "complete.part02.encrypted",
           "bytes": 41943040,
-          "sha256": "841fa466a0a45370e7a8db0b80c2dfc4332f76f5331a5f70bba611fdcf9f6197"
+          "sha256": "16c0f08ae45d4fb3d97a781f0e9a92e431889b7e0ff6eb96a8bf0326256443ec"
         },
         {
           "name": "complete.part03.encrypted",
-          "bytes": 19430370,
-          "sha256": "d70f0d22227c769946004cd256547d3a4b1de91ed66db61f23d0fb69d51493b1"
+          "bytes": 19432207,
+          "sha256": "115e52bf373b05ef1de598d29ea0a0e5bc8a5faa660b8337f391591f465003d4"
         }
       ]
     },
     "source": {
       "name": "01_修复后源码.zip",
-      "nonce": "G2IjsmKKoeJeVmt5",
-      "bytes": 2803244,
-      "sha256": "3844993d253c4a87b3653d9d526cae16aaa5936dbdd96a86776629dc72de9d82",
+      "nonce": "UnFDAIWPBqpUM65+",
+      "bytes": 2805084,
+      "sha256": "d6f3a8214b52673e52f4e9c7ebfd8f0012b206ccd655aa1d6f18bf2c0284a244",
       "parts": [
         {
           "name": "source.part01.encrypted",
-          "bytes": 2803260,
-          "sha256": "44e3a4bb6a8f4172cd2eb9d21f57e9c8969f37d4979e6fea1c237ca5def78a32"
+          "bytes": 2805100,
+          "sha256": "d210cea97d5160d10bb51bc53bd16c4d3c4a4b3936fb23e2ab29ebbb1f201f7d"
         }
       ]
     },
     "desktop": {
-      "name": "workbench-portable-5.0.0-x64.exe",
-      "nonce": "5ff6X0RI7RBoovSZ",
-      "bytes": 99729987,
-      "sha256": "4828000490c40dcb357a425af17d471e28210f3a3a3b17b50b1999799b9dc585",
+      "name": "workbench-portable-5.0.1-x64.exe",
+      "nonce": "JIlFWnO8VjRx4RZY",
+      "bytes": 99729209,
+      "sha256": "1d263ce739097a3b1595281d269501045c9e9bc990c9d5182fdb7590236a08b3",
       "parts": [
         {
           "name": "desktop.part01.encrypted",
           "bytes": 41943040,
-          "sha256": "35d6b9dee2d36493da31c0a61df5d9b57479c61376fca930a346b45457c5dcb1"
+          "sha256": "f74925c1d30b3d36cb72008112b66210203c4a45cf1122dda9a60f13afd9b712"
         },
         {
           "name": "desktop.part02.encrypted",
           "bytes": 41943040,
-          "sha256": "8fd51a3f05ef1009472c92631fbdba6c4ae37e318088e54426875bc9c65c32f5"
+          "sha256": "9eee2db0d6aed50bc554e0fb0dfad242495584b4b18b5a420bd9b733d207e52b"
         },
         {
           "name": "desktop.part03.encrypted",
-          "bytes": 15843923,
-          "sha256": "e7ef1b572b432acdb2c786c75a8b751d67bdf0dc502bbe1ee75a752fe51fff94"
+          "bytes": 15843145,
+          "sha256": "9afdd5dd8074b3a881ad7b6106d399f15919bed0b9123cea8722c63b37806cfd"
         }
       ]
     },
